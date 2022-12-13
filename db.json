@@ -1,0 +1,28 @@
+{
+  "alunos": [
+    {
+      "nome": "agenor",
+      "matricula": "123456",
+      "curso": "Sistemas para internet",
+      "id": 5
+    }
+  ],
+  "disciplinas": [
+    {
+      "nomeDisciplina": "Java Web I",
+      "cargaHoraria": "80h",
+      "professor": "Agenor",
+      "status": "Obrigatória",
+      "observacoes": "Aula 1",
+      "id": 1
+    },
+    {
+      "nomeDisciplina": "Programação Avançada",
+      "cargaHoraria": "100h",
+      "professor": "Bruno",
+      "status": "Obrigatória",
+      "observacoes": "sdfasdfasdfasd",
+      "id": 2
+    }
+  ]
+}
