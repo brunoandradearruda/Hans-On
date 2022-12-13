@@ -1,28 +1,42 @@
 {
   "alunos": [
     {
-      "nome": "agenor",
-      "matricula": "123456",
+      "nome": "Agenor Roberto",
+      "matricula": "102030",
       "curso": "Sistemas para internet",
-      "id": 5
+      "id": 2
+    },
+    {
+      "nome": "Bruno Andrade de Arruda",
+      "matricula": "101020",
+      "curso": "Redes",
+      "id": 3
     }
   ],
   "disciplinas": [
     {
-      "nomeDisciplina": "Java Web I",
-      "cargaHoraria": "80h",
-      "professor": "Agenor",
+      "nomeDisciplina": "Java WEB I",
+      "cargaHoraria": "60h",
+      "professor": "John",
       "status": "Obrigatória",
-      "observacoes": "Aula 1",
+      "observacoes": "",
       "id": 1
     },
     {
-      "nomeDisciplina": "Programação Avançada",
-      "cargaHoraria": "100h",
-      "professor": "Bruno",
+      "nomeDisciplina": "Introdução à Programação com Scripts",
+      "cargaHoraria": "60",
+      "professor": "Nélio",
       "status": "Obrigatória",
-      "observacoes": "sdfasdfasdfasd",
+      "observacoes": "",
       "id": 2
+    },
+    {
+      "nomeDisciplina": "DESENVOLVIMENTO DE INTERFACES WEB COM UX E UI",
+      "cargaHoraria": "60",
+      "professor": "Fechine",
+      "status": "Obrigatória",
+      "observacoes": "",
+      "id": 3
     }
   ]
 }
